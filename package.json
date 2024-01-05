@@ -1,0 +1,17 @@
+{
+  "name": "test-rayous",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "rayous": "^2.6.3",
+    "ts-loader": "^9.5.1",
+    "webpack": "^5.89.0"
+  }
+}
